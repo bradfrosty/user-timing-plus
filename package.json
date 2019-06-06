@@ -1,0 +1,19 @@
+{
+  "name": "user-timing-plus",
+  "version": "0.0.1",
+  "description": "Enhanced User Timing API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "user",
+    "timing",
+    "performance",
+    "usertiming",
+    "mark",
+    "measure"
+  ],
+  "author": "Bradley Frost <bfrost2893@gmail.com> (https://gitlab.com/bfrost)",
+  "license": "MIT"
+}
