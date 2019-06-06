@@ -19,5 +19,8 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "cuid": "^2.1.6"
   }
 }
