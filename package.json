@@ -4,6 +4,7 @@
   "description": "Enhanced User Timing API",
   "main": "lib/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "npm run test"
   },
   "keywords": [
@@ -15,5 +16,8 @@
     "measure"
   ],
   "author": "Bradley Frost <bfrost2893@gmail.com> (https://gitlab.com/bfrost)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
 }
